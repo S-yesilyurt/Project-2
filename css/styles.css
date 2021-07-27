@@ -1,0 +1,222 @@
+body{
+  position: relative;
+  margin: 100px auto;
+  text-align: center;
+  background-color: #CDF0EA;
+  font-family: 'Baloo Chettan 2', cursive
+}
+
+.cloud-img {
+  width: 15%;
+  position: absolute;
+  left: 5rem;
+  top: 2rem;
+
+}
+
+.cloud-img2{
+  width: 15%;
+  position: absolute;
+  right: 5rem;
+}
+
+.heading {
+font-family: 'Dancing Script', cursive;
+font-size: 70px;
+font-style: italic;
+}
+
+.middle-container {
+  position: absolute;
+margin:auto;
+}
+
+.computer-icon {
+  width: 20rem;
+  margin-right: 800px;
+}
+
+.heading-text {
+  position: absolute;
+  font-size: 40px;
+  margin-left: 500px;
+  margin-top: 100px;
+  font-family: 'Dancing Script', cursive;
+}
+.future {
+  text-decoration: underline;
+}
+
+.eniac-heading {
+  font-family: 'Dancing Script', cursive;
+  font-style: italic;
+}
+
+.eniac-png {
+  width: 30%;
+  border-radius: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.eniac-heading {
+  margin-left: 400px;
+
+
+}
+
+.first-computer {
+  width: 29rem;
+  border-radius: 20%;
+
+
+}
+
+.first-laptop{
+  width: 30%;
+  border-radius: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.first-personal-computer-text{
+  line-height: 2;
+  margin: 50 auto 0;
+  padding-bottom: 100px;
+}
+
+
+.gamingcomputer-img {
+  width: 500px;;
+
+}
+
+.applecomputer-img {
+  border-radius: 20%;
+}
+
+.gamingcomputer-img{
+  border-radius: 20%;
+}
+
+.super-computer-img {
+  border-radius: 20%;
+}
+
+.computer-s{
+  margin: 100 auto;
+}
+
+.first-computer-heading {
+  font-size: 3rem;
+  padding: 10px;
+  line-height: 2;
+  margin: 50px
+}
+
+.eniac-text{
+  line-height: 2;
+  margin: 50 auto 0;
+  padding-bottom: 100px;
+}
+
+.quantum-img {
+  width: 20rem;
+  border-radius: 20%;
+  float:left;
+  margin-right: 50px;
+  line-height: 2;
+}
+
+.quantum-text {
+  padding: 100px;
+  margin:100 auto;
+}
+
+
+h1 {
+  color: #3D94F6;
+  padding:50px;
+
+}
+
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  color: #EAF6F6;
+  border-width: 5px;
+  width: 45px;
+  margin: 100px auto;
+}
+
+.bottom-container {
+  background-color: #11999E;
+  padding: 60px 0 ;
+}
+
+a {
+  margin: 0 30px;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+
+h3{
+  color: #3D94F6;
+  font-size: 40px;
+  line-height: 2;
+}
+
+h4{
+  color: #3D94F6;
+  line-height: 2;
+}
+
+.end-text{
+  line-height: 2;
+}
+.button {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 22px;
+   font-weight: 600;
+   padding: 11px;
+   -webkit-box-shadow: 0 1px 58px 0 #000000;
+   -moz-box-shadow: 0 1px 58px 0 #000000;
+   box-shadow: 0 1px 58px 0 #000000;
+   text-shadow: -7px 0 92px #99C624;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 100px;
+}
+
+.button:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
